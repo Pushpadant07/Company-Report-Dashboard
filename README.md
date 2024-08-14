@@ -1,6 +1,5 @@
 I'm Pushpadant and I used the following tools and techniques:
 
-[Click For Interactive Dashboard]
 
 **Tech Stacks:**
 
