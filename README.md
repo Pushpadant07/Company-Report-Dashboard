@@ -1,6 +1,6 @@
 I'm Pushpadant and I used the following tools and techniques:
 
-[Click For Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTU2MDIwZGItOTBiZi00NGM2LWI4ZTItMzc0ZWE1NzNiOWRlIiwidCI6IjBiYTEzZTFjLTU1ODMtNGRhZi1hYzk2LTQ2NzYwNDBlM2NiMSJ9)
+[Click For Interactive Dashboard]
 
 **Tech Stacks:**
 
